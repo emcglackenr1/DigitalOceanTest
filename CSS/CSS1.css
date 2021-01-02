@@ -1,0 +1,25 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h1 {
+    color:black;
+    text-decoration: bold;
+    padding-bottom: 2%;
+  }
+  
+  h2, h3 {
+    color: darkolivegreen;
+    text-decoration: bold;
+  }
+
+  body {
+    padding: 10% 8%;
+  }
+  
+  p {
+    font-size: 14;
+    color: darkblue;
+  }
+
+ 
